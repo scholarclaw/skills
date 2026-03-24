@@ -1,6 +1,6 @@
 ---
-name: academic-paper-search
-description: 学术论文智能检索助手，基于 Semantic Scholar 数据库和 ScholarClub 接口，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。
+name: paper-search-report
+description: 学术论文智能检索报告助手，基于 Semantic Scholar 数据库和 ScholarClub 接口，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。
 version: 1.0.1
 ---
 
