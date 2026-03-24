@@ -1,0 +1,7 @@
+{
+  "name": "paper-summary",
+  "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-summary",
+  "description": "An AI-powered academic paper summarizer that extracts text from PDF files and generates structured summaries encompassing key concepts, major contributions, and experimental results. ",
+  "category": "ScholarClub",
+  "version": "1.0.1"
+}

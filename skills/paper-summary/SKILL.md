@@ -1,8 +1,7 @@
 ---
 name: "paper-summary"
 description: "Extracts text from PDF files and generates structured paper summaries with Key Ideas, Main Contributions, and Experimental Results. Supports direct PDF file processing and integration with OpenClaw."
-author: "qi"
-version: "1.0.0"
+version: "1.0.1"
 ---
 
 # paper-summary

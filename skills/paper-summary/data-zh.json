@@ -1,0 +1,7 @@
+{
+  "name": "论文摘要助手",
+  "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-summary",
+  "description": "学术智能论文摘要助手，从PDF文件中提取文本，并生成包含关键思想、主要贡献及实验结果的结构化论文摘要。",
+  "category": "ScholarClub",
+  "version": "1.0.1"
+}

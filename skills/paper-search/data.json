@@ -1,0 +1,7 @@
+{
+  "name": "paper-search",
+  "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-search",
+  "description": "An intelligent academic search assistant that retrieves relevant papers via the scholar.club API, based on valid search keywords or queries provided by the user.",
+  "category": "ScholarClub",
+  "version": "1.0.1"
+}

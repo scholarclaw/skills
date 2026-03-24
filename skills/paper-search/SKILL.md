@@ -1,8 +1,7 @@
 ---
 name: "paper-search"
 description: "Searches academic papers using scholar.club API with query keywords. Returns search results in either structured format or raw API response. Use --raw parameter to get original search results without any formatting. Invoke when user asks to search academic papers or query research topics."
-author: "qi"
-version: "1.0.0"
+version: "1.0.1"
 ---
 
 # Paper Search
