@@ -1,10 +1,10 @@
 ---
 name: paper-search-report
-description: 学术论文智能检索报告助手，基于 Semantic Scholar 数据库和 ScholarClub 接口，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。
+description: 学术论文智能检索报告技能，基于 Semantic Scholar 数据库和 ScholarClub 接口，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。
 version: 1.0.1
 ---
 
-# 学术论文检索技能
+# 学术论文检索报告技能
 
 ## 任务目标
 
@@ -24,7 +24,7 @@ version: 1.0.1
 - **Request Parameters**: 
   - query: URL-encoded search keywords
   - offset: 0 (fixed)
-  - limit: 10 (fixed, returns 10 results per request)
+  - limit: 0-10 (max 10, returns limit results per request)
 
 ## 标准化工作流程
 
