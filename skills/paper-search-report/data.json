@@ -1,7 +1,7 @@
 {
   "name": "paper-search-report",
   "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-search-report",
-  "description": "Intelligent Academic Paper Retrieval Assistant, based on the Semantic Scholar database and ScholarClub API, supports multi-dimensional retrieval by keywords, authors, journals, and time. It automatically constructs keyword matrices, performs paper quality scoring (based on citation counts, journal tiers, and author influence), and outputs structured literature reports. Suitable for literature reviews, domain research investigations, and tracking authors' research trajectories.",
+  "description": "Intelligent Academic Paper Retrieval and Report Assistant, based on the Semantic Scholar database and ScholarClub API, supports multi-dimensional retrieval by keywords, authors, journals, and time. It automatically constructs keyword matrices, performs paper quality scoring (based on citation counts, journal tiers, and author influence), and outputs structured literature reports. Suitable for literature reviews, domain research investigations, and tracking authors' research trajectories.",
   "category": "ScholarClub",
   "version": "1.0.1"
 }
