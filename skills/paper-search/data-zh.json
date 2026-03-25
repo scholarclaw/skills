@@ -1,7 +1,0 @@
-{
-  "name": "论文搜索助手",
-  "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-search",
-  "description": "学术智能检索助手，基于用户提供有效的搜索关键词或查询问题，通过scholar.club的API搜索相应论文。",
-  "category": "ScholarClub",
-  "version": "1.0.1"
-}

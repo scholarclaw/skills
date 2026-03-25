@@ -3,5 +3,7 @@
   "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-summary",
   "description": "An AI-powered academic paper summarizer that extracts text from PDF files and generates structured summaries encompassing key concepts, major contributions, and experimental results. ",
   "category": "ScholarClub",
+  "description_zh": "学术智能论文摘要助手，从PDF文件中提取文本，并生成包含关键思想、主要贡献及实验结果的结构化论文摘要。",
+  "category_zh": "ScholarClub科研",
   "version": "1.0.1"
 }
