@@ -1,7 +1,7 @@
 ---
-name: paper-search-report
-description: 学术论文智能检索报告技能，基于 Semantic Scholar 数据库和 ScholarClub 接口，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。
-version: 1.0.1
+name: scholar-research-assistant
+description: 学术科研助手，基于 ScholarClub 平台 及 Semantic Scholar 数据库，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。
+version: 1.0.2
 ---
 
 # 学术论文检索报告技能

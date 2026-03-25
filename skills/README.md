@@ -4,4 +4,4 @@
 
 - paper-summary
 - paper-search
-- paper-search-report
+- scholar-research-assistant
