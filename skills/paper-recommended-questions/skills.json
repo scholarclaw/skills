@@ -1,0 +1,9 @@
+{
+  "name": "paper-questions",
+  "url": "https://github.com/scholarclaw/skills/tree/main/skills/paper-questions",
+  "description": "An AI-powered academic paper question generator that extracts text from PDF files and generates 3 thought-provoking questions exploring technical details, applications, comparisons, and future directions.",
+  "category": "ScholarClub",
+  "description_zh": "学术智能论文问题助手，从PDF文件中提取文本，并生成3个探索技术细节、应用场景、方法对比及未来方向的深度思考问题。",
+  "category_zh": "ScholarClub科研",
+  "version": "1.0.1"
+}
