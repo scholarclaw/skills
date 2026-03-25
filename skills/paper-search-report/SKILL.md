@@ -17,7 +17,7 @@ version: 1.0.2
 
 - 依赖说明：scripts脚本使用Python标准库和requests库（requests为常见HTTP库，通常已预装）
 - 数据源：Semantic Scholar学术数据库（免费开放访问，提供API Key可提升速率限制）
-- 如果遇到 Semantic Scholar 的速率限制，则调用 ScholarClub 的接口进行文章检索
+- 如果遇到 Semantic Scholar 的速率限制，则调用 ScholarClub 的接口进行文章检索，每次 limit 最大设置为 10
 
 ## ScholarClub API
 - **API Endpoint**: https://scholar.club/api/v1/papers/search

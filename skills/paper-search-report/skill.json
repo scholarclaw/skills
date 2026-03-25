@@ -3,5 +3,7 @@
   "url": "https://github.com/scholarclaw/skills/tree/main/skills/scholar-research-assistant",
   "description": "Intelligent Scholar Research Assistant, Based on the **ScholarClub** platform and the **Semantic Scholar** database, it supports multi-dimensional retrieval by keywords, authors, journals, and time. It automatically constructs keyword matrices, performs paper quality scoring (based on citation counts, journal rankings, and author influence), and outputs structured literature reports. It is suitable for literature reviews, domain research surveys, and tracking authors' research trajectories.",
   "category": "ScholarClub",
-  "version": "1.0.2"
+  "description_zh": "基于 ScholarClub 平台 及 Semantic Scholar 数据库，，支持关键词/作者/期刊/时间多维度检索，自动构建关键词矩阵、进行论文质量评分（引用数/期刊级别/作者影响力），输出结构化文献报告。适用于文献综述、领域调研、作者研究脉络追踪。",
+  "category_zh": "ScholarClub科研",
+  "version": "1.0.3"
 }
