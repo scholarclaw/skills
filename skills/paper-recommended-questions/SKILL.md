@@ -1,7 +1,7 @@
 ---
 name: "paper-recommended-questions"
 description: "Extracts text from PDF files and generates 3 thought-provoking questions that explore the study in depth. Supports direct PDF file processing and integration with OpenClaw."
-version: "1.0.0"
+version: "1.0.1"
 ---
 
 # paper-recommended-questions
