@@ -1,0 +1,9 @@
+{
+  "name": "scholar-paper-analysis",
+  "url": "https://github.com/scholarclaw/skills/tree/main/skills/scholar-paper-analysis",
+  "description": "Transforms surface-level reading into deep learning through systematic analysis using 10+ proven thinking frameworks. Guides users from understanding to application through structured workflows.",
+  "category": "ScholarClub",
+  "description_zh": "运用SCQA、5W2H、批判性思维、逆向思维、心智模型、第一性原理、系统思维、六顶帽子等10+思维框架，支持URL/PDF/DOCX/TXT输入，将复杂内容转化为可落地洞见。",
+  "category_zh": "ScholarClub科研",
+  "version": "1.0.0"
+}
